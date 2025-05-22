@@ -1,0 +1,10 @@
+crewai
+requests
+pydantic
+python-dotenv
+pytest
+pytest-cov
+ruff
+yfinance
+crewai[tools]
+textblob
