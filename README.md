@@ -1,4 +1,4 @@
-# CrewAI Ticker Analysis Assistant
+# Ticker Analyser
 
 ## Overview
 A multi-agent AI assistant for analyzing stock tickers using CrewAI. It validates tickers, analyzes price data and news sentiment, and provides a final recommendation (Buy/Sell/Hold) with explanations.
